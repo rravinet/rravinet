@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Raphael!
 
-<!--
-**rravinet/rravinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Raphael, a CFA charterholder with a passion for data-driven decision-making and financial analytics. I recently earned my M.S. in Financial Economics, where I focused on econometrics, machine learning, and advanced time series analysis. I enjoy applying analytical tools and financial models to solve complex problems
 
-Here are some ideas to get you started:
+### 🎓 Education:  
+- **M.Sc. in Financial Economics** – Barcelona School of Economics  
+- **B.Sc. in Economics** – IBMEC-MG  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Skills:  
+- **Programming Languages**: Python, R, SQL  
+- **Data Analysis and Visualization**: Pandas, Polars, NumPy, Matplotlib, Seaborn, Plotly, ggplot2, dplyr  
+- **Machine Learning and Neural Networks**: PyTorch, XGBoost, Scikit-learn  
+
+I’m constantly learning new tools and working on projects to expand my skillset. Feel free to explore my repositories and connect with me—I'm always eager to collaborate and share ideas.
